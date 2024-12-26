@@ -1,6 +1,3 @@
-// js 문자열 선언
-// let str = 'hello';
-
 // ts 문자열 선언
 let str: string = "hello";
 let num: number = 10;
